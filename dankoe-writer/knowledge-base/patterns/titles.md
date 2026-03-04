@@ -83,6 +83,36 @@ The Reason You [负面结果] Is Because You [身份问题]
 
 ---
 
+## 五、悖论型
+
+**公式**：
+
+The [X] of [Y] when [Y] is [与X矛盾的状态]
+
+**示例**：
+- The future of work when work is meaningless
+- The value of content when content is free
+
+**心理机制**：矛盾本身就是钩子。大脑无法忽视悖论。
+
+**适用场景**：讨论时代趋势、探讨深层矛盾
+
+---
+
+## 六、重启型
+
+**公式**：
+
+How I'd [build/start/do] [X] if I [started over] in [年份]
+
+**示例**：
+- How I'd build a one-person business if I started over in 2026
+- How I'd learn writing if I started from zero today
+
+**心理机制**：暗示作者有多年经验可浓缩，读者可跳过弯路。
+
+**适用场景**：方法论总结、经验复盘
+
 ## 中文平台标题适配
 
 | 英文策略 | 中文适配 | 示例 |
