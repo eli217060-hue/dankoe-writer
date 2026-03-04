@@ -4,41 +4,47 @@
 
 本知识库基于 Dan Koe 的文章、视频和播客内容创建，配合联网研究系统，用于生成有深度、有真实数据支撑的内容。
 
-## V4 更新说明
+## V4.1 更新说明
 
-- **新增**：联网研究流程（每次创作都搜索最新素材）
-- **新增**：强制多样性检查机制
-- **新增**：短内容写作模式（patterns/short-form.md）
-- **新增**：动态组装机制（同一批积木适配不同平台/篇幅）
-- **重组**：所有写作模式统一到 patterns/ 目录，消除重复
-- **精简**：SOP 合并为单文件，引用 patterns/ 而非重复内容
-- **精简**：methods/ 只保留方法论框架
+- **新增**：6 篇文章分析（总计 13 篇，覆盖 2025 下半年至 2026 初最新内容）
+- **新增**：微故事型、维度递进型、史诗演化型结构模式
+- **新增**：悖论型、重启型标题策略
+- **新增**：连续问题轰炸、三类人分类钩子模式
+- **新增**：Dan Koe 自述三层创作框架（微故事法 / 金字塔原则 / 跨领域综合法）
+- **新增**：写作乐高系统（段落级填充工具）
+- **整合**：Thread 写作模式合并进 short-form.md（不单独建目录）
 
 ## 目录结构
 
 ```
 knowledge-base/
-├── articles/              # 7 篇 Dan Koe 文章深度分析
+├── articles/              # 13 篇 Dan Koe 文章深度分析
 │   ├── 01-ai-coming-for-your-job.md
 │   ├── 02-fix-your-life-in-1-day.md
 │   ├── 03-multiple-interests.md
 │   ├── 04-12-rules-change-life.md
 │   ├── 05-death-of-thoughtful-creation.md
 │   ├── 06-future-of-productivity.md
-│   └── 07-death-of-value-content.md
+│   ├── 07-death-of-value-content.md
+│   ├── 08-something-different-2026.md
+│   ├── 09-strategic-genius-5d-thinking.md
+│   ├── 10-one-person-business-2026.md
+│   ├── 11-future-of-work-meaningless.md
+│   ├── 12-ambitious-person-skill-advertising.md
+│   └── 13-articulate-yourself-intelligently.md
 │
 ├── videos/                # 视频和播客转录
 │   └── video-transcript-fix-life.md
 │
 ├── patterns/              # 写作模式库（每个模式只出现一次）
-│   ├── titles.md          # 标题策略（4 种类型）
-│   ├── hooks.md           # 开场钩子（5 种模式）
+│   ├── titles.md          # 标题策略（6 种类型）
+│   ├── hooks.md           # 开场钩子（7 种模式）
 │   ├── golden-phrases.md  # 金句公式（6 种类型）
-│   ├── structures.md      # 结构模式（5 种 + 短文专用）
-│   └── short-form.md      # 短内容写作模式（新增）
+│   ├── structures.md      # 结构模式（8 种 + 短文专用）
+│   └── short-form.md      # 短内容 + Thread 写作模式
 │
 ├── methods/               # 方法论框架
-│   └── dankoe-methods.md  # 核心方法论（不含模式，已移至 patterns/）
+│   └── dankoe-methods.md  # 9 个方法论 + 写作乐高系统
 │
 ├── sop/                   # SOP 模板
 │   └── content-sop.md     # 10 个 SOP 合并为 1 个文件
@@ -67,8 +73,12 @@ articles/（真实文章分析，SOP 和 patterns 的来源）
 | 多元兴趣 | 多兴趣是优势而非劣势，是现代通才的基石 |
 | 创作经济 | 创作是最后的护城河，独特的视角不可复制 |
 | AI 时代 | AI 消除平庸，放大独特性 |
+| 品味经济 | AI 让生产免费，品味成为稀缺资源 |
+| 意义生成 | 挣扎+好奇心+地位 → 故事 → 意义 |
+| 技能抽象化 | 每次技术革命，技能向上移动一层 |
 
 ## 更新记录
 
+- **2026-03 V4.1**：新增 6 篇文章分析、Thread 模式整合、微故事法、写作乐高、新标题/钩子/结构模式、三层创作框架
 - **2025-01 V4.0**：知识库重组，新增 patterns/ 目录，消除重复
 - **2025-01 V3.0**：初始创建，7 篇文章分析 + 9 个 SOP
